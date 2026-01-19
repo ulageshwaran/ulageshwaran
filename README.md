@@ -128,7 +128,7 @@ A space-themed interactive portfolio with animated constellation effects and 3D 
 - 🧩 Component-based Django architecture
 
 **Tech:** Django, HTML5, CSS3, JavaScript, Custom Animations  
-**Design:** Modern minimalist with space aesthetics
+**Design:** Modern minimalist with space aesthetics                       
 **Live:** [ulageshwaran-portfolio.onrender](https://ulageshwaran-portfolio.onrender.com/) | Deployed on Render
 
 ---
