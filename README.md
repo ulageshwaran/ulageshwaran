@@ -134,8 +134,8 @@ A space-themed interactive portfolio with animated constellation effects and 3D 
 
 ## 🏆 Achievements & Certifications
  
-📜 **IBM Certified** - Django Application Development with SQL and Database (Sept 2025)
-📜 **TAAS Academy** - Python Full Stack Development
+📜 **IBM Certified** - Django Application Development with SQL and Database (Sept 2025)      
+📜 **TAAS Academy** - Python Full Stack Development      
 🥉 **Third Place** - Inter College Hackathon (Club Inferno) - Sept 2024
 
 ---
@@ -197,8 +197,8 @@ Not just using AI as a gimmick - I build **intelligent systems** where AI:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ue1618@srmist.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulageshofficial@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ulageshwaran)
+[![Email](https://img.shields.io/badge/Email-ulageshofficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulageshofficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ulageshwaran-e)
 [![Phone](https://img.shields.io/badge/Phone-9342563200-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919342563200)
 
 </div>
