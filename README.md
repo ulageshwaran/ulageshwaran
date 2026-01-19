@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ulageshwaran-e/)
 
-## 🚀 Full Stack Developer | AI Integration Specialist | EdTech Innovator
+## 🚀 Full Stack Developer | AI Integration Specialist
 
 I'm a passionate **Software Development Engineer** pursuing M.Sc in Information Technology at SRM IST. I specialize in building intelligent, scalable web applications that solve real-world problems using Django, Python, and cutting-edge AI technologies.
 
