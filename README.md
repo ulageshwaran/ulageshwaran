@@ -1,4 +1,4 @@
-# Hi there, I'm Ulageshwaran E 👋
+# Hi there, I'm Ulageshwaran 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ulageshwaran-e/)
 
