@@ -1,7 +1,6 @@
 # Hi there, I'm Ulageshwaran E 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ulageshwaran&color=blueviolet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ulageshwaran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ulageshwaran-e/)
 
 ## 🚀 Full Stack Developer | AI Integration Specialist | EdTech Innovator
 
@@ -135,9 +134,9 @@ A space-themed interactive portfolio with animated constellation effects and 3D 
 
 ## 🏆 Achievements & Certifications
  
-📜 **IBM Certified** - Django Application Development with SQL and Database (Sept 2025)  
+📜 **IBM Certified** - Django Application Development with SQL and Database (Sept 2025)
 📜 **TAAS Academy** - Python Full Stack Development
-🥉 **Third Place** - Inter College Hackathon (Club Inferno) - Sept 2024 
+🥉 **Third Place** - Inter College Hackathon (Club Inferno) - Sept 2024
 
 ---
 
